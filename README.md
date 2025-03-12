@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neeraja Gude
-- 👀 I’m interested in 
+- 👀 I’m interested in Data Exploration & Visualization, SQL & Database Management, Machine Learning, Business Intelligence (BI) Tools, Tableau, Real-World Data Projects, Continuous Learning 
 - 🌱 I’m currently learning Python, AIML,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on http://linkedin.com/in/neeraja-gude
