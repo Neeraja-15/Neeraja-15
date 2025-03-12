@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neeraja-15
+- 👋 Hi, I’m Neeraja Gude
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Python, AIML,
 - 💞️ I’m looking to collaborate on ...
